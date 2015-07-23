@@ -1,7 +1,7 @@
 angular.module('acato.service.core', [])
 
 /**
- * A core acato app provider.
+ * A core Acato app provider.
  *
  * Usage:
  * angular.module('myApp', ['ionic', 'tofu'])
