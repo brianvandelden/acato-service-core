@@ -7,6 +7,9 @@
   ],
   "description": "Acato core package for Ionic projects",
   "main": "acato-core.js",
+  "dependencies": {
+    "angular-local-storage": "~0.2.2"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
